@@ -1,4 +1,7 @@
-## This source code will not work well in current form. The actual code will be uploaded upon the acceptance of the paper.
+#############################################################################################################################
+## This source code will not work well in current form. The actual code will be uploaded upon the acceptance of the paper. ##
+#############################################################################################################################
+
 from __future__ import absolute_import, division, print_function
 import tensorflow as tf
 import matplotlib.pyplot as plt
